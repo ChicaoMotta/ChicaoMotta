@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **full-stack web development at Trybe, I am currently on the Computer Science part of the course.**<br><br>- 👯 I’m looking to collaborate on **any project that looks to help leave the world a little better.**<br><br>- 👨‍💻 All of my projects are available at: [https://chicaomotta.github.io/ or the portfolio section on my LinkedIn].<br><br>- 📫 How to reach me: **Either here or on my LinkedIn (https://www.linkedin.com/in/francisco-motta/)**</p>
+- 🌱 I’m currently learning **full-stack web development at Trybe, I am currently on the Computer Science part of the course.**
+- 👯 I’m looking to collaborate on **any project that looks to help leave the world a little better.**
+- 👨‍💻 All of my projects are available at: [https://chicaomotta.github.io/](https://chicaomotta.github.io/) or the portfolio section on my [LinkedIn](https://www.linkedin.com/in/francisco-motta/).
+- 📫 How to reach me: **Either here or on my LinkedIn (https://www.linkedin.com/in/francisco-motta/)**
 
 ###
 
