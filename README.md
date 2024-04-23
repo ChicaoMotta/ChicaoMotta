@@ -10,7 +10,7 @@
 
 ###
 
-- **I'm currently working at a Brazilian start-up called Puzl Place **
+- :astronaut: **I'm currently working at a Brazilian start-up called Puzl Place.**
 - 👯 I’m looking to collaborate on **any project that looks to help leave the world a little better.**
 - 👨‍💻 All of my projects are available at:  **[https://chicaomotta.github.io/](https://chicaomotta.github.io/) or the portfolio section on my [LinkedIn](https://www.linkedin.com/in/francisco-motta/)**.
 - 📫 How to reach me: **Either here or on my [LinkedIn](https://www.linkedin.com/in/francisco-motta/)**
