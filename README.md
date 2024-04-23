@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a front-end web developer with extensive experience in WordPress, aspiring to evolve into a full-stack developer and ultimately transition into the realm of cybersecurity.</p>
+<p align="left">I am a Full Stack web developer with extensive experience in WordPress, Vue, PHP, Laravel and ultimately want to transition into the realm of cybersecurity.</p>
 
 ###
 
